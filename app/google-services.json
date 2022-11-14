@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208578533377",
+    "project_id": "projectchattingapp-9aa0f",
+    "storage_bucket": "projectchattingapp-9aa0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208578533377:android:389336574abc7fa3a3c800",
+        "android_client_info": {
+          "package_name": "org.valleycollege.projectchattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208578533377-faiobgjnd24kh9f2a79q8km4pv568irm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuFamQG9M1uMQD1XvcOLBnptKVNpUDyLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208578533377-faiobgjnd24kh9f2a79q8km4pv568irm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
